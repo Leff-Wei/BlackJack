@@ -219,13 +219,13 @@ int main() {
 
 	cout << "Let's play the card game: BlackJack (or named Twenty-One)!\n";
 	cout << "\n*******RULES******\n\n";
-	cout << "* The dealer gets one card to start(in real life, the dealer gets two, but one is face down so it doesn¡¯t matter at this point).\n";
+	cout << "* The dealer gets one card to start(in real life, the dealer gets two, but one is face down so it doesnÂ¡Â¯t matter at this point).\n";
 	cout << "* The player gets two cards to start.\n";
 	cout << "* The player goes first.\n";
 	cout << "* A player can repeatedly hit or stand.\n";
 	cout << "* If the player stands, their turn is over.\n";
 	cout << "* If the player hits, they get another card and the value of that card is added to their total score.\n";
-	cout << "* An ace normally counts as a 1 or an 11 (whichever is better for the total score).For simplicity, we¡¯ll count it as an 11 here.\n";
+	cout << "* An ace normally counts as a 1 or an 11 (whichever is better for the total score).For simplicity, weÂ¡Â¯ll count it as an 11 here.\n";
 	cout << "* If the player goes over a score of 21, they bust and lose immediately.\n";
 	cout << "* The dealer goes after the player.\n";
 	cout << "* The dealer repeatedly draws until they reach a score of 17 or more, at which point they stand.\n";
